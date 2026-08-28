@@ -1,0 +1,20 @@
+# Data
+data/*.csv
+data/*.parquet
+
+# Notebook checkpoints
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+*.egg-info/
+
+# OS
+.DS_Store
+
+# Results (keep folder, ignore generated content if large)
+results/figures/*.png
+!results/figures/.gitkeep

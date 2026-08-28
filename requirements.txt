@@ -1,0 +1,14 @@
+numpy>=1.26
+pandas>=2.1
+matplotlib>=3.8
+seaborn>=0.13
+scipy>=1.11
+statsmodels>=0.14
+arch>=6.3
+yfinance>=0.2.40
+jupyter>=1.0
+notebook>=7.0
+scikit-learn>=1.4
+xgboost>=2.0
+streamlit>=1.38
+tqdm>=4.66
